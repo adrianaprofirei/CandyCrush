@@ -1,4 +1,4 @@
 # CandyCrush
-CandyCrush este o aplicatie inspirata dupa jocul cu acelasi nume, ce a fost realizat in echipa de 2 elevi, ca proba practica pentru obtinerea atestatului in informatica.
+CandyCrush is an application inspired by the game of the same name, which was made in a team of 2 students, as a practical test for obtaining the certificate in informatics.
 
-Prezentare video: https://youtu.be/YVr85V8V_nM
+Video: https://youtu.be/YVr85V8V_nM
